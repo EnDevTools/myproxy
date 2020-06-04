@@ -19,6 +19,8 @@ Simple Python script for proxy scan to get (usable) proxies. It scan (periodical
 ## Building
 
     $ sudo apt update
+    $ sudo apt install python
+    $ sudo apt install python3
     $ sudo apt install libssl-dev
     $ sudo yum install openssl-devel
     $ sudo apt install python-pip
