@@ -10,17 +10,27 @@ Why should you use it? Well, if you've ever used free proxy lists around you'll 
 
 ![fetch](https://github.com/EnDevTools/myproxy/blob/master/myproxy.png)
 
+
+## git
+
+
+    $ git clone https://github.com/EnDevTools/myproxy.git
+   
+
 ## Building
 
-The difficult part is getting the *OpenSSL* libraries installed, and not conflicting
-with other versions on the system. Some examples for versions of Linux I've tested on
-are the following, but they keep changing package names from one distribution to
-the next. Also, there are many options for an OpenSSL-compatible API, such as BoringSSL
-and LibreSSL.
 
     $ sudo apt install libssl-dev
     $ sudo yum install openssl-devel
+    
+   
+   
+## Primary use
 
+
+    $ ./myproxy
+    $ ./myproxy --output=proxy.txt
+    
 
 Requirements
 ----
