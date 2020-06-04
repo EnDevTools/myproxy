@@ -30,6 +30,7 @@ Why should you use it? Well, if you've ever used free proxy lists around you'll 
 
     $ ./myproxy
     $ ./myproxy --output=proxy.txt
+    $ ./myproxy --c=france
     
 
 Requirements
