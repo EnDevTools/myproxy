@@ -18,7 +18,7 @@ Simple Python script for proxy scan to get (usable) proxies. It scan (periodical
 
 ## Building
 
-    $ $ sudo apt update
+    $ sudo apt update
     $ sudo apt install libssl-dev
     $ sudo yum install openssl-devel
     $ sudo apt install python-pip
@@ -41,3 +41,9 @@ Requirements
 ----
 
 **MYPROXY** works out of the box with any Python version from **2.6.x** to **3.x** on any platform.
+
+
+## Contact Me
+https://www.facebook.com/En.Dev.Tools
+Telegram @EnDevTools
+
