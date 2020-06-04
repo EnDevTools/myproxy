@@ -10,7 +10,7 @@ Simple Python script for proxy scan to get (usable) proxies. It scan (periodical
 ![fetch](https://github.com/EnDevTools/myproxy/blob/master/myproxy.png)
 
 
-## git
+## Git
 
 
     $ git clone https://github.com/EnDevTools/myproxy.git
