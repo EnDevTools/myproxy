@@ -1,7 +1,7 @@
 # myproxy
 proxy scanner by country
 
-my proxy-scanner [![Build Status](https://github.com/EnDevTools/myproxy)](https://github.com/EnDevTools/myproxy) [![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-Public_domain-red.svg)](https://github.com/EnDevTools/myproxy)
+my proxy-scanner [![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-Public_domain-red.svg)](https://github.com/EnDevTools/myproxy)
 ====
 
 Simple Python script for fetching "some" (usable) proxies. It fetches (periodically updated) list of public proxies and automatically finds in a quick manner those usable in that same moment (Note: testing of SOCKS proxies is currently possible only on non-Windows platforms).
