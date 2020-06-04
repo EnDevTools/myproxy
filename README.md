@@ -1,5 +1,5 @@
-# myproxy
-proxy scanner by country
+# myproxy scanner
+
 
 my proxy-scanner [![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-Public_domain-red.svg)](https://github.com/EnDevTools/myproxy)
 ====
