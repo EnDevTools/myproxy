@@ -44,6 +44,6 @@ Requirements
 
 
 ## Contact Me
-https://www.facebook.com/Dev.Tools.x
-Telegram @EnDevTools
+https://www.facebook.com/Dev.Tools.xd
+Telegram @CvvNow
 
